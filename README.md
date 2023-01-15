@@ -2,6 +2,8 @@
 ----------------------
 This is my first pygame project: a chrome dinosaur game for desktop.
 
+I followed a tutorial (The ultimate introduction to pygame - Clear Code) to make this.
+
 ----------------------
 **To play this game:**
   1. Download python (https://www.python.org/downloads/)
