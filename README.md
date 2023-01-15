@@ -1,4 +1,5 @@
 # chrome-dino-pygame
+----------------------
 This is my first pygame project.
 I followed a few parts of this tutorial to create a runner game: https://youtu.be/AY9MnQ4x3zk
 
@@ -9,10 +10,11 @@ I followed a few parts of this tutorial to create a runner game: https://youtu.b
 
 **If the pygame installation goes wrong:**
 
-  **"pip is not recognised as a command:"**
+  **'pip' is not recognized as an internal or external command,
+operable program or batch file.**
 
-   Add pip to your PATH environnement variables and run the commmand again
+   Add `C:\Users\[your username]\AppData\Local\Programs\Python\Python[your version of python]\Scripts` to your PATH environnement variables and run the commmand again
 
-  **"error while generating metadata:"**
+  **Encountered error while generating package metadata.**
 
    Run the command `pip install pygame --pre` this will install an older version of pygame
