@@ -1,8 +1,8 @@
 # chrome-dino-pygame
 ----------------------
-This is my first pygame project.
-I followed a few parts of this tutorial to create a runner game: https://youtu.be/AY9MnQ4x3zk
+This is my first pygame project: a chrome dinosaur game for desktop.
 
+----------------------
 **To play this game:**
   1. Download python (https://www.python.org/downloads/)
   2. Download pygame with this command: `pip install pygame`
