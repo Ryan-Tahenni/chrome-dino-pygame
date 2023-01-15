@@ -19,3 +19,7 @@ operable program or batch file.**
   **Encountered error while generating package metadata.**
 
    Run the command `pip install pygame --pre` this will install an older version of pygame
+   
+   **If it's still not working**
+   
+   Try to google solutions yourself, you are a grownup, not a baby.
