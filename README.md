@@ -6,7 +6,7 @@ I followed a few parts of this tutorial to create a runner game: https://youtu.b
 **To play this game:**
   1. Download python (https://www.python.org/downloads/)
   2. Download pygame with this command: `pip install pygame`
-  3. Run the python file 'main.py'
+  3. Run the python file 'Chrome Dino.py'
 
 **If the pygame installation goes wrong:**
 
